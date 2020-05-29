@@ -3,7 +3,7 @@ background-color: cornflowerblue;
 }
 
 
-#banner  {
+ #banner  {
   /* background-image: url("../img/john1.jpeg");*/
   background-size: cover; 
   background-position: right;
@@ -29,12 +29,7 @@ background-color: cornflowerblue;
   margin-left: 10px;
   font-size: 30px;
   }
-  .add h1 {
-  margin-top: 100px;
- }
- .container-fluid {
- margin-top: 2px;
- }
+
  p {
  font-family:'Lucida Sans', 'Lucida Sans Regular', 'LucidaGrande','Lucida Sans Unicode', Geneva, Verdana,     sans-serif;
  text-align: justify;
@@ -55,7 +50,8 @@ background-color: cornflowerblue;
  color: burlywood;
  }
  img {
-   height: 400px;
-   width: 400px;
+   height: 350px;
+   width: 350px;
 
  }
+
