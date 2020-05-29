@@ -2,6 +2,60 @@ body {
 background-color: cornflowerblue;
 }
 
-h1 {
-  color: brown;
-}
+
+#banner  {
+  /* background-image: url("../img/john1.jpeg");*/
+  background-size: cover; 
+  background-position: right;
+  background-attachment: fixed;
+  width: 100%; height: 700px;
+  padding: 15px;
+  position: relative;
+  } 
+  
+  header {
+  text-align: center;
+  font-size: 70px;
+  font-family: marker felt;
+  color: rgb(150, 99, 70);
+  background-color: rgb(31, 17, 17, 0.5);
+  max-width: 860px;
+  margin: auto;
+  border-radius: 25px;
+  }
+  h1 {
+     color: seagreen;
+  padding-top: 30px;
+  margin-left: 10px;
+  font-size: 30px;
+  }
+  .add h1 {
+  margin-top: 100px;
+ }
+ .container-fluid {
+ margin-top: 2px;
+ }
+ p {
+ font-family:'Lucida Sans', 'Lucida Sans Regular', 'LucidaGrande','Lucida Sans Unicode', Geneva, Verdana,     sans-serif;
+ text-align: justify;
+ text-justify: inter-word;
+  } 
+ #share img {
+ width: 50px;
+ height: 50px;
+ float: right;
+ padding: 10px;
+ } 
+
+ p {
+ text-align: justify;
+ text-justify: inter-word;
+ }
+ span {
+ color: burlywood;
+ }
+ img {
+   height: 400px;
+   width: 400px;
+
+ }
