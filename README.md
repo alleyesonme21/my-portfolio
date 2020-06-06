@@ -18,7 +18,7 @@ My personal portofolio outlines my prior work experience in Haiti, international
 - VSCode
 
  gh-pages Link
-url:https://github.com/alleyesonme21/my-portfolio/tree/gh-pages
+url:https://alleyesonme21.github.io/my-portfolio/
 
 ## Support and contact details
 Contact info: Email: duverseaujohnny21@gmail.com
